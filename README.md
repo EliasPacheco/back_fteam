@@ -2,16 +2,6 @@
 
 Backend Node.js completo para gerenciamento de tarefas com PostgreSQL, seguindo arquitetura modular e boas práticas.
 
-## 🚀 Tecnologias Utilizadas
-
-- **Node.js** - Runtime JavaScript
-- **Express.js** - Framework web
-- **PostgreSQL** - Banco de dados
-- **Joi** - Validação de dados
-- **Helmet** - Segurança
-- **CORS** - Cross-origin resource sharing
-- **Rate Limiting** - Proteção contra spam
-
 ## 📋 Pré-requisitos
 
 - Node.js (versão 14 ou superior)
